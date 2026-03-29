@@ -10,7 +10,7 @@
 ├── train_mini_gpt.py     # 训练脚本
 ├── generate_text.py      # 文本生成脚本
 ├── prepare_data.py       # 数据准备脚本
-└── README_MINI_GPT.md    # 本文件
+└── readme.md    # 本文件
 ```
 
 ## 🎯 学习路线
