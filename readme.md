@@ -1,4 +1,4 @@
-# Mini-GPT: 从零实现 Transformer 文本生成器
+# Mini-GPT: 动手学Transformer——从零实现 GPT 文本生成器
 
 这是一个教学项目，从 `nn.Linear` 开始手工实现完整的 Transformer 模型，用于唐诗/莎士比亚文本自动生成。
 
